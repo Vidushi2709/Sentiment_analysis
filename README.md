@@ -9,6 +9,11 @@ This is a **basic Sentiment Analysis** project that classifies text as **positiv
 - Random Forest performed better than Naïve Bayes
 - Expandable for future improvements and additional features
 
+## Data
+
+The dataset used for this project is the IMDB Dataset of Top 1000 Movies and TV Shows. It contains movie and TV show details, which were used for sentiment classification.
+link:https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+
 ## Installation
 Clone the repository:
 ```sh
